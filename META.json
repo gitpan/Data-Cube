@@ -40,7 +40,7 @@
       },
       "runtime" : {
          "requires" : {
-            "Data::Nest" : "0.03",
+            "Data::Nest" : "0.04",
             "Scalar::Util" : "0",
             "perl" : "5.008005"
          }
@@ -54,19 +54,19 @@
    "provides" : {
       "Data::Cube" : {
          "file" : "lib/Data/Cube.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/muddydixon/data-cube/issues"
+         "web" : "https://github.com/muddydixon/Data-Cube/issues"
       },
-      "homepage" : "https://github.com/muddydixon/data-cube",
+      "homepage" : "https://github.com/muddydixon/Data-Cube",
       "repository" : {
-         "url" : "git://github.com/muddydixon/data-cube.git",
-         "web" : "https://github.com/muddydixon/data-cube"
+         "url" : "git://github.com/muddydixon/Data-Cube.git",
+         "web" : "https://github.com/muddydixon/Data-Cube"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }

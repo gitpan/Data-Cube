@@ -27,13 +27,13 @@ no_index:
 provides:
   Data::Cube:
     file: lib/Data/Cube.pm
-    version: 0.01
+    version: 0.02
 requires:
-  Data::Nest: 0.03
+  Data::Nest: 0.04
   Scalar::Util: 0
   perl: 5.008005
 resources:
-  bugtracker: https://github.com/muddydixon/data-cube/issues
-  homepage: https://github.com/muddydixon/data-cube
-  repository: git://github.com/muddydixon/data-cube.git
-version: 0.01
+  bugtracker: https://github.com/muddydixon/Data-Cube/issues
+  homepage: https://github.com/muddydixon/Data-Cube
+  repository: git://github.com/muddydixon/Data-Cube.git
+version: 0.02
